@@ -1,0 +1,27 @@
+{
+  "master": {
+    "login": 123456789,
+    "password": "Password",
+    "server": "ServerName",
+    "mt5_path": "C:/Users/Admin/Desktop/mt5/master/terminal64.exe"
+  },
+  "slaves": [
+    {
+      "login": 123456789,
+      "password": "Password",
+      "server": "ServerName",
+      "mt5_path": "C:/Users/Admin/Desktop/mt5/slaves/1/terminal64.exe",
+      "risk_usd": 50
+    },
+    {
+      "login": 123456789,
+      "password": "Password",
+      "server": "ServerName",
+      "mt5_path": "C:/Users/Admin/Desktop/mt5/slaves/2/terminal64.exe",
+      "risk_usd": 25
+    }
+  ],
+  "loop_interval": 0.1,
+  "ignore_no_sl": true,
+  "trade_comment": "RiskSync"
+}
